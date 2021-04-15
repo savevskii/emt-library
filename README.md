@@ -1,2 +1,2 @@
-# This is a project for laboratory excercises for Electronic and Mobile Commerce.
+# This is a project for laboratory exercises for Electronic and Mobile Commerce.
  
